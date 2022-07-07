@@ -6,7 +6,7 @@
 
 - 📫 I love helping the aspiring and early career data scientists with mentoring and sharing my own experience to answer their questions. I have conducted about 200+ free mentoring sessions. 
 
-- If interested you can book a session at https://calendly.com/nirmal-budhathoki/30min?month=2022-07
+- If interested you can book a session at https://calendly.com/nirmal-budhathoki/30min
 
 - Linkedin: https://www.linkedin.com/in/nirmal-budhathoki/
 
