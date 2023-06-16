@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Natural Language Processing and its applications in Security. 
 
-- 📫 I love helping the aspiring and early career data scientists with mentoring and sharing my own experience to answer their questions. I have conducted about 200+ free mentoring sessions. 
+- 📫 I love helping the aspiring and early career data scientists with mentoring and sharing my own experience to answer their questions. I have conducted about 700+ free mentoring sessions. 
 
 - If interested you can book a session at https://calendly.com/nirmal-budhathoki/30min
 
